@@ -2,7 +2,7 @@
 
 [![Foxtrot Sierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxtrotSierra6829&custom_title=Foxtrot%20Sierra's%20GitHub%20Stats)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxtrotSierra6829&layout=compact)]()
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxtrotSierra6829&layout=compact)]()-->
 
 <!--
 **FoxtrotSierra6829/FoxtrotSierra6829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
