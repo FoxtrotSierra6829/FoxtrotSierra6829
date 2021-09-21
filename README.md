@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Foxtrot Sierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxtrotSierra6829&custom_title=Foxtrot%20Sierra's%20GitHub%20Stats)](https://github.com/FoxtrotSierra6829)
-
+[![Foxtrot Sierra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FoxtrotSierra)](https://github.com/FoxtrotSierra6829)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxtrotSierra6829&layout=compact)]()-->
 
 <!--
