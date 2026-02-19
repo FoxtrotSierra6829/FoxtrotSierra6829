@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 [![Foxtrot Sierra's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FoxtrotSierra6829&custom_title=Foxtrot%20Sierra's%20GitHub%20Stats&show_icons=true)](https://github.com/FoxtrotSierra6829)
 [![Foxtrot Sierra's wakatime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=FoxtrotSierra&range=last_year)](https://github.com/FoxtrotSierra6829)
